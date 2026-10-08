@@ -1,0 +1,80 @@
+{
+  "query_1": {
+    "query": "What is FastAPI?",
+    "results": [
+      {
+        "rank": 1,
+        "id": "doc2",
+        "document": "FastAPI is a modern Python web framework used for building APIs. It provides automatic validation, documentation, and high performance.",
+        "distance": 0.2607,
+        "similarity": 0.7393
+      },
+      {
+        "rank": 2,
+        "id": "doc1",
+        "document": "Python is a high-level programming language known for its simple syntax and readability. It is widely used for web development, data science, automation, and artificial intelligence.",
+        "distance": 0.8743,
+        "similarity": 0.1257
+      },
+      {
+        "rank": 3,
+        "id": "doc7",
+        "document": "Deep learning uses neural networks with multiple layers to learn complex patterns from large amounts of data. It is commonly used for computer vision, speech recognition, and natural language processing.",
+        "distance": 0.8795,
+        "similarity": 0.1205
+      }
+    ]
+  },
+  "query_2": {
+    "query": "How do computers learn from data?",
+    "results": [
+      {
+        "rank": 1,
+        "id": "doc3",
+        "document": "Machine learning is a branch of artificial intelligence where computers learn patterns from data and use those patterns to make predictions or decisions.",
+        "distance": 0.4293,
+        "similarity": 0.5707
+      },
+      {
+        "rank": 2,
+        "id": "doc7",
+        "document": "Deep learning uses neural networks with multiple layers to learn complex patterns from large amounts of data. It is commonly used for computer vision, speech recognition, and natural language processing.",
+        "distance": 0.6117,
+        "similarity": 0.3883
+      },
+      {
+        "rank": 3,
+        "id": "doc8",
+        "document": "Natural language processing enables computers to understand, process, and generate human language. Applications include chatbots, translation, summarization, and sentiment analysis.",
+        "distance": 0.6741,
+        "similarity": 0.3259
+      }
+    ]
+  },
+  "query_3": {
+    "query": "How does a vector database store and search embeddings?",
+    "results": [
+      {
+        "rank": 1,
+        "id": "doc4",
+        "document": "A vector database stores numerical vector representations called embeddings. It allows applications to efficiently search for documents that are semantically similar to a query.",
+        "distance": 0.1875,
+        "similarity": 0.8125
+      },
+      {
+        "rank": 2,
+        "id": "doc5",
+        "document": "Embeddings are numerical representations of text, images, or other data. Similar pieces of information are represented by vectors that are close to each other in vector space.",
+        "distance": 0.3534,
+        "similarity": 0.6466
+      },
+      {
+        "rank": 3,
+        "id": "doc7",
+        "document": "Deep learning uses neural networks with multiple layers to learn complex patterns from large amounts of data. It is commonly used for computer vision, speech recognition, and natural language processing.",
+        "distance": 0.6944,
+        "similarity": 0.3056
+      }
+    ]
+  }
+}
