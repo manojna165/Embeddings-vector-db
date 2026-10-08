@@ -1,0 +1,34 @@
+[
+  {
+    "id": "doc1",
+    "text": "Python is a high-level programming language known for its simple syntax and readability. It is widely used for web development, data science, automation, and artificial intelligence."
+  },
+  {
+    "id": "doc2",
+    "text": "FastAPI is a modern Python web framework used for building APIs. It provides automatic validation, documentation, and high performance."
+  },
+  {
+    "id": "doc3",
+    "text": "Machine learning is a branch of artificial intelligence where computers learn patterns from data and use those patterns to make predictions or decisions."
+  },
+  {
+    "id": "doc4",
+    "text": "A vector database stores numerical vector representations called embeddings. It allows applications to efficiently search for documents that are semantically similar to a query."
+  },
+  {
+    "id": "doc5",
+    "text": "Embeddings are numerical representations of text, images, or other data. Similar pieces of information are represented by vectors that are close to each other in vector space."
+  },
+  {
+    "id": "doc6",
+    "text": "Cloud computing provides computing resources such as servers, storage, databases, and software over the internet instead of requiring users to maintain physical infrastructure."
+  },
+  {
+    "id": "doc7",
+    "text": "Deep learning uses neural networks with multiple layers to learn complex patterns from large amounts of data. It is commonly used for computer vision, speech recognition, and natural language processing."
+  },
+  {
+    "id": "doc8",
+    "text": "Natural language processing enables computers to understand, process, and generate human language. Applications include chatbots, translation, summarization, and sentiment analysis."
+  }
+]
